@@ -39,7 +39,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/Ingvichet112/Ingvichet112/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ingvichet112/Ingvichet112/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
