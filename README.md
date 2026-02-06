@@ -36,12 +36,7 @@
   <img src="https://streak-stats.demolab.com?user=Ingvichet112&theme=tokyonight"/>
 </p>
 
----
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/ingvichet112/Ingvichet112/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📫 Connect With Me
 - 🌐 GitHub: https://github.com/Ingvichet112  
