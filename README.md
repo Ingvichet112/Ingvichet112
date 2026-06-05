@@ -3,12 +3,12 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Node.js+%7C+React+%7C+MySQL;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Node.js+%7C+React+%7C+MySQL;Always+Learning+New+Things&center=true&width=500&height=45">
 </h3>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑💻 About Me
 - 🎓 Student & passionate developer  
 - 🌱 Currently learning **Node.js, React, MongoDB, MySQL**  
 - 💡 Love building **real-world projects**  
@@ -33,7 +33,7 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ingvichet112&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com/?user=Ingvichet112&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 ---
