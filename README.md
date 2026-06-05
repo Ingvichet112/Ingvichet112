@@ -41,8 +41,8 @@
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://github.com/Ingvichet112" target="_blank">GitHub</a> •
-  <a href="https://www.linkedin.com/in/ingvichet112/" target="_blank">LinkedIn</a> •
-  <a href="mailto:ingvichet@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/ing-vichet-38a897379/" target="_blank">LinkedIn</a> •
+  <a href="mailto:ingvichet146@gmail.com">Email</a>
 </p>
 
 ---
